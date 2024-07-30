@@ -49,6 +49,7 @@ body {
     color: #1a2a6c !important;
 }
 .lord{
+    display:flex;
     padding-top:30px;
 }
 
