@@ -48,11 +48,7 @@ body {
     background-color: #fdbb2d !important;
     color: #1a2a6c !important;
 }
-.lord{
-    display:flex;
-    padding-top:30px;
-}
-
+ 
 /* Forms */
 .form-control {
     background: rgba(255, 255, 255, 0.2);
